@@ -3,7 +3,6 @@ Brazilian Portuguese Translator of [PAYDAY 2](https://github.com/gabsF/payday2_t
 
 - 🔭 I’m currently working on some Brazilian localizations.
 - 📫 How to reach me: gabriel.brazilianloc@gmail.com
-- 😄 Pronouns: him/his
 
 <!--
 **gabsF/gabsF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
