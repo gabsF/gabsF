@@ -1,5 +1,5 @@
 ## oi 👋
-Brazilian Portuguese Translator of PAYDAY 2, POSTAL: Brain Damaged and POSTAL 4: No Regerts (WIP)
+Brazilian Portuguese Translator of [PAYDAY 2](https://github.com/gabsF/payday2_translate_brazilian) and [POSTAL: Brain Damaged](https://store.steampowered.com/app/1359980/POSTAL_Brain_Damaged/)
 
 - 🔭 I’m currently working on some Brazilian localizations.
 - 📫 How to reach me: gabriel.brazilianloc@gmail.com
