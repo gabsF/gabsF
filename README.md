@@ -2,7 +2,7 @@
 Brazilian Portuguese Translator of [PAYDAY 2](https://github.com/gabsF/payday2_translate_brazilian) and [POSTAL: Brain Damaged](https://store.steampowered.com/app/1359980/POSTAL_Brain_Damaged/)
 
 - 🔭 I’m currently working on some Brazilian localizations
-  - [WEBFISHING](https://github.com/SAn4Es-TV/WFLocalization) (Link to localization base by SAn4Es-TV, special thanks for it :D) and [RAID: World War II](https://modworkshop.net/mod/51497)
+  - [WEBFISHING](https://modworkshop.net/mod/52004) and [RAID: World War II](https://modworkshop.net/mod/51497)
 - 📫 How to reach me: gabriel.brazilianloc@gmail.com
 
 <!--
