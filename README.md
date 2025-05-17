@@ -1,5 +1,5 @@
 ## oi 👋
-Brazilian Portuguese Translator of [PAYDAY 2](https://github.com/gabsF/payday2_translate_brazilian), [POSTAL: Brain Damaged](https://store.steampowered.com/app/1359980/POSTAL_Brain_Damaged/) and [WEBFISHING](https://modworkshop.net/mod/52004)
+Brazilian Portuguese Translator of [PAYDAY 2](https://github.com/gabsF/payday2_translate_brazilian), [POSTAL: Brain Damaged](https://store.steampowered.com/app/1359980/POSTAL_Brain_Damaged/) and [WEBFISHING](https://github.com/gabsF/WFLocalization)
 
 - 🔭 I’m currently working on some Brazilian localizations
   - [RAID: World War II](https://modworkshop.net/mod/51497)
